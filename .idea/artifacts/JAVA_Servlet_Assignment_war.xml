@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JAVA-Servlet-Assignment:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JAVA-Servlet-Assignment</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JAVA-Servlet-Assignment-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JAVA-Servlet-Assignment:war exploded" />
+    </root>
+  </artifact>
+</component>
